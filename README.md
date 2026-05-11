@@ -2,16 +2,16 @@
 Free to use
 
 South China Morning Post https://www.scmp.com/rss/5/feed/ \
-**Left**
+**Left** \
 The New York Times https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml \
 The Morning Brew https://www.morningbrew.com/feed.xml \
-**Right**
+**Right** \
 Fox https://moxie.foxnews.com/google-publisher/latest.xml \
-**Crime**
+**Crime** \
 Crime Junkie https://feeds.simplecast.com/qm_9xx0g \
 Dateline NBC https://podcastfeeds.nbcnews.com/HL4TzgYC \
-**Market**
+**Market** \
 WSJ https://feeds.a.dj.com/rss/RSSMarketsMain.xml \
 https://feeds.megaphone.fm/WSJ4886593505?limit=20 \
-**Tech**
+**Tech** \
 It's Foss https://itsfoss.com/rss/ \
